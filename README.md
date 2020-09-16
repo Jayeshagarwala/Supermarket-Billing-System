@@ -1,0 +1,2 @@
+# Supermarket-Billing-System
+This is a single file application made using Python and MySql database. This application is for the customers and desk operators in the supermarket. It is a very user-friendly and minimalistic application which allows both the customers and the desk operators or the employees to access the facilities through the same application. This application gives the user various choices to choose from and calls the functions as requested by the user.
